@@ -1,0 +1,7 @@
+super_user {
+
+User : abc
+email : abc@mail.com
+pass : 123
+
+}
